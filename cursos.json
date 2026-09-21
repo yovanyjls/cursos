@@ -1,0 +1,1490 @@
+[
+  {
+    "nombre": "Programa de desarrollo de videojuegos con Unity 6 y Inteligencia Artificial",
+    "institucion": "Casta Tutors",
+    "fecha": "",
+    "enCurso": true,
+    "horas": null,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "AI"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Diseñador de peticiones para modelos de IA generativa",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": null,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "IA Generativa",
+      "Generative AI"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/aca3f9b8-d024-4f2e-ad2e-76f19467fab9"
+  },
+  {
+    "nombre": "Cybersecurity Fundamentals",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 1.5,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad"
+    ],
+    "url": "https://drive.google.com/file/d/1wue_Ho8nLg1YeaD3oUt7OokQWAosd1LK/view?usp=sharing"
+  },
+  {
+    "nombre": "Master AI with Gemini",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 2,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "Gemini",
+      "IA",
+      "Google"
+    ],
+    "url": "https://drive.google.com/file/d/1h1kg8kHQDAd3XGkSNM1QYx_wohl9RPu1/view?usp=sharing"
+  },
+  {
+    "nombre": "Strategic Thinking & Strategic Mindset",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación"
+    ],
+    "url": "https://drive.google.com/file/d/1STmllApV5wtz8ARzlpanRM4Ox3rYeiAV/view?usp=sharing"
+  },
+  {
+    "nombre": "Workplace well-being and stress",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://drive.google.com/file/d/1eu7eHYoGfyE_sUZr9_hn3sdy23bV3TDi/view?usp=sharing"
+  },
+  {
+    "nombre": "Safe, Fair, and Legal: How to Use AI Right",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial, Seguridad / Ciberseguridad",
+    "claves": [
+      "Inteligencia Artificial",
+      "Seguridad / Ciberseguridad"
+    ],
+    "url": "https://drive.google.com/file/d/1f8lcDMIVTs7PoFl4_s2rs981rEakQXx4/view?usp=sharing"
+  },
+  {
+    "nombre": "Introducción a la estadística y probabilidad",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 64,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Estadística",
+      "Datos",
+      "Probabilidad"
+    ],
+    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/ca2a40ab-48bd-48fb-917f-17e153e7b520"
+  },
+  {
+    "nombre": "Copilot Master AI in Microsoft 365",
+    "institucion": "Santander Open Academy",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "Copilot",
+      "IA",
+      "Microsoft"
+    ],
+    "url": "https://drive.google.com/file/d/19GIabySuiye15bHnkBuD4Nd9nqeyaT5r/view?usp=sharing"
+  },
+  {
+    "nombre": "Introducción a la ciberseguridad",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-09",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Ciberseguridad",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/13079703-9f6c-4c53-b1ed-03fe68cc0146"
+  },
+  {
+    "nombre": "Semana de Excel en la Práctica",
+    "institucion": "Daxus Latam",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Excel",
+      "Ofimática"
+    ],
+    "url": "https://drive.google.com/file/d/1xBjthHZMZeQ0o9wlr0hxJSJ8Y_6cD-cy/view?usp=sharing"
+  },
+  {
+    "nombre": "Inmersión Agentes de IA en la Práctica",
+    "institucion": "Daxus Latam",
+    "fecha": "2026-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "Agentes de IA"
+    ],
+    "url": "https://drive.google.com/file/d/1pQzHjExxgW0rUTMYkcnwzoS7IRLnxEcp/view?usp=sharing"
+  },
+  {
+    "nombre": "Java Foundations",
+    "institucion": "Oracle (INFOTEC)",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": 90,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": "https://drive.google.com/file/d/1x8Cr5Zc41eXEqGMl3TeazBb8LJqRCSkY/view?usp=sharing"
+  },
+  {
+    "nombre": "Java Fundamentals",
+    "institucion": "Oracle (INFOTEC)",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": 90,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": "https://drive.google.com/file/d/1n97wVctCqvSf_ym6zQzX5lkSir-sPdf-/view?usp=sharing"
+  },
+  {
+    "nombre": "Oracle Java Learning Path",
+    "institucion": "Oracle (INFOTEC)",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": 180,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java",
+      "Oracle",
+      "Base de datos",
+      "SQL"
+    ],
+    "url": "https://drive.google.com/file/d/1fO6DS1B04x8o4sRfwE2jxGNtcsVazQha/view?usp=sharing"
+  },
+  {
+    "nombre": "Inmersión Inteligencia Artificial en la Práctica",
+    "institucion": "Daxus Latam",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "AI"
+    ],
+    "url": "https://drive.google.com/file/d/1BOssUpv8C60akkd_PLik7-t5vvD4kv93/view?usp=sharing"
+  },
+  {
+    "nombre": "Semana de Python en la Práctica",
+    "institucion": "Daxus Latam",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Backend / Java, Datos / BI, Inteligencia Artificial",
+    "claves": [
+      "Backend / Java",
+      "Datos / BI",
+      "Inteligencia Artificial",
+      "Python"
+    ],
+    "url": "https://drive.google.com/file/d/104hd9LOwMt1lUuH5agoYonq59MNPl19d/view?usp=sharing"
+  },
+  {
+    "nombre": "Curso Propedéutico del Centro Público de Formación en Inteligencia Artificial",
+    "institucion": "Tecnológico Nacional de México (TecNM)",
+    "fecha": "2026-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "AI"
+    ],
+    "url": "https://mooc.tecnm.mx/certificates/ef8fc48f5f114d9a915250697f65e7d1"
+  },
+  {
+    "nombre": "Concientización en Seguridad de la Información",
+    "institucion": "TIC Defense",
+    "fecha": "2026-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Seguridad"
+    ],
+    "url": "https://drive.google.com/file/d/14weamaoH1blqc-uyK-tuUyjtQHGGPcRm/view?usp=sharing"
+  },
+  {
+    "nombre": "GitHub para programadores",
+    "institucion": "LinkedIn",
+    "fecha": "2025-10",
+    "enCurso": false,
+    "horas": 1.9,
+    "area": "Full Stack, Backend / Java, Liderazgo / Coordinación",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Liderazgo / Coordinación",
+      "GitHub",
+      "Git"
+    ],
+    "url": "https://www.linkedin.com/learning/certificates/e054db948e09736d802c943e592ae52c8d1aa1c795a4f3cdbe3b801b08a8c36a?trk=share_certificate"
+  },
+  {
+    "nombre": "Claude Code: A Highly Agentic Coding Assistant",
+    "institucion": "Anthropic / DeepLearning.AI",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": null,
+    "area": "Inteligencia Artificial, Full Stack, Backend / Java",
+    "claves": [
+      "Inteligencia Artificial",
+      "Full Stack",
+      "Backend / Java",
+      "Claude",
+      "IA",
+      "Anthropic"
+    ],
+    "url": "https://learn.deeplearning.ai/accomplishments/eb1a8ee9-6d33-4993-bf7b-b3e064d23196"
+  },
+  {
+    "nombre": "Leading in a Digital World",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación"
+    ],
+    "url": "https://drive.google.com/drive/folders/12F2usL3rBYPOQnRuGMX6ZuAmQZ_SPBsG"
+  },
+  {
+    "nombre": "Quarkus avanzado",
+    "institucion": "LinkedIn",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 1.9,
+    "area": "Backend / Java, Full Stack",
+    "claves": [
+      "Backend / Java",
+      "Full Stack",
+      "Quarkus",
+      "Java",
+      "Backend"
+    ],
+    "url": "https://www.linkedin.com/learning/certificates/239448cc0feef08efb39b10e67155a658a018f19052e65aeb2a4b76b0542e39e?trk=share_certificate"
+  },
+  {
+    "nombre": "Criptografía (Teórico y Práctico)",
+    "institucion": "Udemy",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 5.5,
+    "area": "Seguridad / Ciberseguridad, Backend / Java",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Backend / Java",
+      "Criptografía",
+      "Seguridad",
+      "Cifrado"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-946ce28b-7028-4505-8d1b-6d583086d2b2/"
+  },
+  {
+    "nombre": "Salud Financiera",
+    "institucion": "Santander",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://saludfinanciera.online/cert-sf/alumni?token=fa96f4fe5492eeffc995dfac7a6f024c"
+  },
+  {
+    "nombre": "Quarkus esencial",
+    "institucion": "LinkedIn",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 4.1,
+    "area": "Backend / Java, Full Stack",
+    "claves": [
+      "Backend / Java",
+      "Full Stack",
+      "Quarkus",
+      "Java",
+      "Backend"
+    ],
+    "url": "https://www.linkedin.com/learning/certificates/a8a24d5623c3e8d87f48c181b9297fb15838c9ec6a01aada1fef3ff0333b2874?trk=share_certificate"
+  },
+  {
+    "nombre": "Inmersión IA",
+    "institucion": "Alura Latam",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 6,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA"
+    ],
+    "url": "https://credsverse.com/credentials/6ba06616-99d0-4621-b305-be78c2e95ad6"
+  },
+  {
+    "nombre": "Digital Transformation",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-09",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación, Inteligencia Artificial",
+    "claves": [
+      "Liderazgo / Coordinación",
+      "Inteligencia Artificial"
+    ],
+    "url": "https://drive.google.com/file/d/17AExWbNrL3lUh-Ysaa7ubmWd620SLzEW/view"
+  },
+  {
+    "nombre": "Power BI",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Power BI",
+      "Business Intelligence",
+      "BI",
+      "Datos"
+    ],
+    "url": "https://drive.google.com/file/d/1ZGUNMPz98jVXND9oGik_4qOdOtHEO5KP/view?usp=sharing"
+  },
+  {
+    "nombre": "Acelerador de Carrera con Power BI + IA",
+    "institucion": "Daxus Latam",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Datos / BI, Inteligencia Artificial",
+    "claves": [
+      "Datos / BI",
+      "Inteligencia Artificial",
+      "IA",
+      "Power BI",
+      "Business Intelligence",
+      "BI",
+      "Datos"
+    ],
+    "url": "https://drive.google.com/file/d/1R8ejdLYjDODa79chBiY6LuLiW7VZW5Vj/view?usp=sharing"
+  },
+  {
+    "nombre": "Responsible prompting: maximize AI in your business",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "Prompting",
+      "IA"
+    ],
+    "url": "https://drive.google.com/file/d/19P9K-rJhQlLNOUKgEsLMKmhQ0C4tBCdO/view?usp=sharing"
+  },
+  {
+    "nombre": "Crear Agentes de AI con Copilot Studio",
+    "institucion": "Platzi",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 11,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "Copilot",
+      "IA",
+      "Microsoft",
+      "Agentes de IA"
+    ],
+    "url": "https://platzi.com/p/610/curso/12261-copilot-studio/diploma/detalle/"
+  },
+  {
+    "nombre": "Introducción a la Inteligencia Artificial",
+    "institucion": "Platzi",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 4,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "AI"
+    ],
+    "url": "https://platzi.com/p/610/curso/11157-introduccion-ai/diploma/detalle/"
+  },
+  {
+    "nombre": "Critical Thinking & Problem Solving",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación"
+    ],
+    "url": "https://drive.google.com/file/d/1rQAHlGBrcXBv0LkHr3zwnEeBkyMtyoXu/view?usp=sharing"
+  },
+  {
+    "nombre": "Introduction to Data Science",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 6,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Data Science",
+      "Datos",
+      "Ciencia de Datos"
+    ],
+    "url": "https://drive.google.com/file/d/1IAMvdep0HvLojTI5VZvwZ1PiZci3E2vS/view?usp=sharing"
+  },
+  {
+    "nombre": "Programador (orientado a objetos)",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": null,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/7bc479b2-a926-4e60-a1d8-5084b7925e63"
+  },
+  {
+    "nombre": "Administración del tiempo",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 17,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://aprende.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/f7eff723-5936-470a-9832-eb2a7da99318"
+  },
+  {
+    "nombre": "Leadership",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación",
+      "Liderazgo",
+      "Leadership"
+    ],
+    "url": "https://drive.google.com/file/d/1iDFCeZFuGVPuwqYCDRftks1gRRnAhZa_/view?usp=sharing"
+  },
+  {
+    "nombre": "Lead with Impact: Tools for managing projects and people",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación"
+    ],
+    "url": "https://drive.google.com/file/d/190-0XhqELS8xt_ipRemsfjON-beC_qFU/view?usp=sharing"
+  },
+  {
+    "nombre": "IA Generativa",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 2,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "IA Generativa",
+      "Generative AI"
+    ],
+    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/2acff588-8216-422d-8408-f0538463e9ba"
+  },
+  {
+    "nombre": "Curso de Oracle básico desde cero (SQL y PL/SQL)",
+    "institucion": "Udemy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 15,
+    "area": "Base de datos, Backend / Java",
+    "claves": [
+      "Base de datos",
+      "Backend / Java",
+      "Oracle",
+      "SQL",
+      "PL/SQL"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-a4c3c0e7-17bc-4a9d-b062-22e1845a8087/"
+  },
+  {
+    "nombre": "Copilot",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "Copilot",
+      "IA",
+      "Microsoft"
+    ],
+    "url": "https://drive.google.com/file/d/1lgTEajiZc70gxUoczyHImeNWl9xC-bdF/view?usp=sharing"
+  },
+  {
+    "nombre": "Project Management & Agile Fundamentals",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación",
+      "Agile",
+      "Scrum",
+      "Gestión de Proyectos",
+      "Project Management",
+      "Gestión",
+      "Management"
+    ],
+    "url": "https://drive.google.com/file/d/1cBy78G7STr2Yp5eU24EW2MF824OOpo5n/view"
+  },
+  {
+    "nombre": "Finder",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/9a6aed94-c1c6-4b0f-8bb1-1ad7e2ac4c5c"
+  },
+  {
+    "nombre": "Administrador de bases de datos",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": null,
+    "area": "Base de datos",
+    "claves": [
+      "Base de datos"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/2c994064-603f-4d84-8dca-4b4c894eca30"
+  },
+  {
+    "nombre": "Introduction to Generative IA",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "IA Generativa",
+      "Generative AI"
+    ],
+    "url": "https://drive.google.com/file/d/1EcqSkXR8U3TBttQsmrW8Kp3un9rKqs8F/view?usp=sharing"
+  },
+  {
+    "nombre": "ChatGPT Fundamentals",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "ChatGPT",
+      "IA",
+      "OpenAI"
+    ],
+    "url": "https://drive.google.com/file/d/1mbZMcfxITkNZWgV_qT2neL7UhVgEscmw/view?usp=sharing"
+  },
+  {
+    "nombre": "Excel",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Excel",
+      "Ofimática"
+    ],
+    "url": "https://drive.google.com/file/d/1Mnxlhv4FH-wCHRJE4q9g7O8y6V3E_sRr/view?usp=sharing"
+  },
+  {
+    "nombre": "Domina la IA con Gemini",
+    "institucion": "Google España",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 1,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "Gemini",
+      "Google"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/Tf8yf23mxDcN7srG16DUw2ef"
+  },
+  {
+    "nombre": "Productividad Personal",
+    "institucion": "Google España",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 40,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/qtkbvjSJGQyz6gSXgahn1yBX"
+  },
+  {
+    "nombre": "Google Inteligencia Artificial y productividad",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 2,
+    "area": "Inteligencia Artificial",
+    "claves": [
+      "Inteligencia Artificial",
+      "IA",
+      "AI"
+    ],
+    "url": "https://drive.google.com/file/d/1nUDgwUNGAYiWK-pf7tu2lHmNA34zpTMR/view"
+  },
+  {
+    "nombre": "Python",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Backend / Java, Datos / BI",
+    "claves": [
+      "Backend / Java",
+      "Datos / BI",
+      "Python"
+    ],
+    "url": "https://drive.google.com/file/d/1eIyOIZPg7vNoeAw0zzlV1yAOzHF4pJka/view"
+  },
+  {
+    "nombre": "Time Management",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-08",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación",
+      "Gestión",
+      "Management"
+    ],
+    "url": "https://drive.google.com/file/d/1G4lZ8cQe3Pvip7gMiwrVxhmqaL5oPqv4/view?usp=sharing"
+  },
+  {
+    "nombre": "Cursor con Python: desarrollo inteligente con IA",
+    "institucion": "Santander Open Academy",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Inteligencia Artificial, Backend / Java",
+    "claves": [
+      "Inteligencia Artificial",
+      "Backend / Java",
+      "IA",
+      "Python"
+    ],
+    "url": "https://drive.google.com/file/d/1uTCreT6BgiBehYON61IboimIJv6GYW-w/view"
+  },
+  {
+    "nombre": "Protege tu Negocio: Ciberseguridad en el Teletrabajo",
+    "institucion": "Google España",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 2,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Ciberseguridad",
+      "Seguridad"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/nkspYvL9V4GZyKRLHVom6eN3"
+  },
+  {
+    "nombre": "Competencias digitales para profesionales",
+    "institucion": "Google España",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 40,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/eNhAbY1d2PE5swi8Q7LLUXv2"
+  },
+  {
+    "nombre": "Cloud Computing",
+    "institucion": "Google España",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/ZGdhWyXUKhrPoYGmao4L5q54"
+  },
+  {
+    "nombre": "Introducción a Excel 2010",
+    "institucion": "Udemy",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 0.6,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Excel",
+      "Ofimática"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-e026c074-c48c-4d0f-8ace-ef53a52ba4d3/"
+  },
+  {
+    "nombre": "Curso de Desarrollo de Apps Móviles",
+    "institucion": "Google España",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil"
+    ],
+    "url": "https://skillshop.exceedlms.com/student/award/E4bifTQdskqBJppXxria6JuA"
+  },
+  {
+    "nombre": "Curador de datos",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/23b7fba9-dfab-47a9-9a97-fb73082f6e10"
+  },
+  {
+    "nombre": "Microsoft Project 2016",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/c70fb32f-8875-4adc-bc18-6ff3c94645bb"
+  },
+  {
+    "nombre": "Microsoft Excel 2016",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Datos / BI",
+    "claves": [
+      "Datos / BI",
+      "Excel",
+      "Ofimática"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/342eb7aa-5749-4d65-bb51-2506d2b0a60a"
+  },
+  {
+    "nombre": "Seguridad de la Información",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e3fdbd94-fcea-42fa-a1c6-3011110375aa"
+  },
+  {
+    "nombre": "Desarrollador de aplicaciones en la nube",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": null,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/771348a1-115d-4ead-830f-2e008a3bcd63"
+  },
+  {
+    "nombre": "Curso de App Store Optimization (ASO) de la A a la Z",
+    "institucion": "Udemy",
+    "fecha": "2025-07",
+    "enCurso": false,
+    "horas": 22,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil",
+      "ASO",
+      "App Store Optimization",
+      "Android",
+      "Móvil"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-1a1fe39e-481d-4e4f-8682-f2e218f07eff/"
+  },
+  {
+    "nombre": "Seguridad e higiene en ambiente laboral",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-06",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/6e61f140-4410-4910-aaf6-b26b146a08a0"
+  },
+  {
+    "nombre": "Cultura HITSS - América Móvil",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-06",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/938c91c5-bce0-4696-9dff-d67eb1d6059e"
+  },
+  {
+    "nombre": "Microsoft Teams",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-06",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bbae51be-062d-441a-976f-8a2834213913"
+  },
+  {
+    "nombre": "Prevención de riesgos psicosociales",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-05",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/a0a09673-4df4-4d45-a7b4-a77e2ceaf996"
+  },
+  {
+    "nombre": "Ergonometría digital",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-05",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/8b59a262-57d3-4668-b70e-de0a79815867"
+  },
+  {
+    "nombre": "Salud Digital",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2025-05",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/63c63b61-e4cd-4832-b524-d7c862ea1e14"
+  },
+  {
+    "nombre": "Introducción a SQL con Oracle 11g",
+    "institucion": "Udemy",
+    "fecha": "2025-05",
+    "enCurso": false,
+    "horas": 8.5,
+    "area": "Base de datos",
+    "claves": [
+      "Base de datos",
+      "Oracle",
+      "SQL"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-d3d730fb-7ce1-43cd-ad26-9d35b73cfd99/"
+  },
+  {
+    "nombre": "Introducción a la sustentabilidad empresarial",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-08",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/5473f1a4-6ce2-4a58-982a-5d52c032f603"
+  },
+  {
+    "nombre": "Crea una app con ChatGPT en Android: Curso completo",
+    "institucion": "Udemy",
+    "fecha": "2024-06",
+    "enCurso": false,
+    "horas": 3,
+    "area": "Android / Móvil, Inteligencia Artificial",
+    "claves": [
+      "Android / Móvil",
+      "Inteligencia Artificial",
+      "ChatGPT",
+      "IA",
+      "OpenAI",
+      "Android",
+      "Móvil"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-869e1020-7ff8-4448-b75e-48427373d898/"
+  },
+  {
+    "nombre": "Android y Kotlin Desde Cero",
+    "institucion": "Udemy",
+    "fecha": "2024-05",
+    "enCurso": false,
+    "horas": 16,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil",
+      "Kotlin",
+      "Android",
+      "Móvil"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-6d473bb5-2787-4c58-8a6b-dfe8807879c2/"
+  },
+  {
+    "nombre": "Curso básico de Kotlin para Android: Fundamentos de 0 a 100",
+    "institucion": "Udemy",
+    "fecha": "2024-04",
+    "enCurso": false,
+    "horas": 27,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil",
+      "Kotlin",
+      "Android",
+      "Móvil"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-723f07df-0774-488e-aa32-ee032561cf56/"
+  },
+  {
+    "nombre": "Código de Ética América Móvil",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d1ed7a7c-5419-4cd2-91f1-68b8f38a8a3b"
+  },
+  {
+    "nombre": "Protección de Datos Personales de Global Hitss",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Protección de Datos",
+      "Privacidad",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/57586c87-f08d-4105-867a-87854f98efef"
+  },
+  {
+    "nombre": "Protección de datos personales en América Móvil",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Protección de Datos",
+      "Privacidad",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e7922731-802a-4167-8639-4d4dbdfa8d11"
+  },
+  {
+    "nombre": "Prevención de lavado de dinero",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/cd869222-6f8a-4af4-92d7-88f6607898c3"
+  },
+  {
+    "nombre": "Introducción a la seguridad de la información",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Seguridad"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/078f72b1-5fb2-4637-a89f-9c71d92d7ef5"
+  },
+  {
+    "nombre": "Control efectivo de la corrupción",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2024-01",
+    "enCurso": false,
+    "horas": null,
+    "area": "General / Compliance / Bienestar",
+    "claves": [
+      "General / Compliance / Bienestar"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/06685124-8149-445d-a8a3-2f5a361d1290"
+  },
+  {
+    "nombre": "Las Bases de datos en la nube y sus ventajas",
+    "institucion": "UNAM",
+    "fecha": "2023-11",
+    "enCurso": false,
+    "horas": 1,
+    "area": "Cloud / AWS, Base de datos",
+    "claves": [
+      "Cloud / AWS",
+      "Base de datos"
+    ],
+    "url": "https://drive.google.com/file/d/1LqBLkMMCujqHZnfsZJ8D63AbLr4AN5ew/view"
+  },
+  {
+    "nombre": "Introducción a Serverless, Lambdas y Api Gateway con AWS",
+    "institucion": "Udemy",
+    "fecha": "2023-11",
+    "enCurso": false,
+    "horas": 3.5,
+    "area": "Cloud / AWS, Backend / Java",
+    "claves": [
+      "Cloud / AWS",
+      "Backend / Java",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube",
+      "Serverless",
+      "Lambda"
+    ],
+    "url": "https://drive.google.com/file/d/1b4XaDlVKDXqeGqX4UbsbcqWh9EhOeBLk/view"
+  },
+  {
+    "nombre": "Amazon AWS desde cero",
+    "institucion": "Udemy",
+    "fecha": "2023-10",
+    "enCurso": false,
+    "horas": 6,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-8f35d1c4-c2b5-43a9-9d8c-808340f3d180/"
+  },
+  {
+    "nombre": "AWS Curso Básico para desarrolladores web",
+    "institucion": "Udemy",
+    "fecha": "2023-08",
+    "enCurso": false,
+    "horas": 9,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-f751d6f4-8f1f-4632-9a0e-cd2ab2cbe3ec/"
+  },
+  {
+    "nombre": "AWS Cloud Practitioner Essentials y Mentorías",
+    "institucion": "Fast Lane LATAM",
+    "fecha": "2023-06",
+    "enCurso": false,
+    "horas": 8,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://drive.google.com/file/d/1GRb_PGpDi_oAz9onj3sVMcB5N5WOo_Dx/view"
+  },
+  {
+    "nombre": "Go to AWS Certification - Developer Associate - Latam",
+    "institucion": "Fast Lane LATAM",
+    "fecha": "2023-06",
+    "enCurso": false,
+    "horas": null,
+    "area": "Cloud / AWS",
+    "claves": [
+      "Cloud / AWS",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://drive.google.com/file/d/1uPzctYv9BSiImGiLg463iglNVt1Z8jRp/view"
+  },
+  {
+    "nombre": "Arquitectura de Android",
+    "institucion": "Platzi",
+    "fecha": "2023-05",
+    "enCurso": false,
+    "horas": 17,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil",
+      "Android",
+      "Móvil"
+    ],
+    "url": "https://platzi.com/p/610/curso/1619-course/diploma/detalle/"
+  },
+  {
+    "nombre": "Universidad Java - De Cero a Experto",
+    "institucion": "Udemy",
+    "fecha": "2023-05",
+    "enCurso": false,
+    "horas": 106,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-bebfa4d4-f811-4bbe-a9ab-e6d67115e837/"
+  },
+  {
+    "nombre": "Club Java Master: De Novato a Experto Java",
+    "institucion": "Udemy",
+    "fecha": "2023-05",
+    "enCurso": false,
+    "horas": 80.5,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-27475481-8593-4e98-852d-52b61c03990b/"
+  },
+  {
+    "nombre": "Curso Profesional de Java EE",
+    "institucion": "Platzi",
+    "fecha": "2023-05",
+    "enCurso": false,
+    "horas": 34,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": "https://platzi.com/p/610/curso/1110-course/diploma/detalle/"
+  },
+  {
+    "nombre": "AWS Cloud Essentials for Business Leaders (1.0)",
+    "institucion": "Fast Lane LATAM",
+    "fecha": "2022-10",
+    "enCurso": false,
+    "horas": 4,
+    "area": "Cloud / AWS, Liderazgo / Coordinación",
+    "claves": [
+      "Cloud / AWS",
+      "Liderazgo / Coordinación",
+      "AWS",
+      "Amazon Web Services",
+      "Cloud",
+      "Nube"
+    ],
+    "url": "https://drive.google.com/file/d/1njsh9s2X0bwwrA5UMI5Uo0D5zFO2gTX9/view"
+  },
+  {
+    "nombre": "Introducción a la programación con Kotlin Desde Cero",
+    "institucion": "Udemy",
+    "fecha": "2022-08",
+    "enCurso": false,
+    "horas": 10,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil",
+      "Kotlin",
+      "Android"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-b6027b8b-ba7d-4ec9-b471-b4409e16f725/"
+  },
+  {
+    "nombre": "Introducción a la Ley General de Archivos",
+    "institucion": "INAI",
+    "fecha": "2021-10",
+    "enCurso": false,
+    "horas": 6,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad"
+    ],
+    "url": "https://drive.google.com/file/d/17gN30C010IoolZRUkMJ18-cCV5KzJFC4/view"
+  },
+  {
+    "nombre": "Core Spring 5.0.b",
+    "institucion": "Spring Latam",
+    "fecha": "2020-11",
+    "enCurso": false,
+    "horas": 32,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Spring",
+      "Java",
+      "Backend"
+    ],
+    "url": "https://drive.google.com/file/d/1XA_u5oTSMEWDN4RyOP06K1gVM0mEW0rA/view"
+  },
+  {
+    "nombre": "Introducción a la Ley Federal de Transparencia y Acceso a la Información Pública",
+    "institucion": "INAI",
+    "fecha": "2019-07",
+    "enCurso": false,
+    "horas": 7,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad"
+    ],
+    "url": "https://drive.google.com/file/d/13Q4HO6I0WacNYTDBBG2fDovRxXEuJTCQ/view"
+  },
+  {
+    "nombre": "Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+    "institucion": "INAI",
+    "fecha": "2019-07",
+    "enCurso": false,
+    "horas": 7,
+    "area": "Seguridad / Ciberseguridad",
+    "claves": [
+      "Seguridad / Ciberseguridad",
+      "Protección de Datos",
+      "Privacidad",
+      "Seguridad"
+    ],
+    "url": "https://drive.google.com/file/d/1XM543GFkj0-MiVzskL9i6ff_Wy-l8qWD/view"
+  },
+  {
+    "nombre": "Scrum Fundamentals with AI Certified (SFC)",
+    "institucion": "SCRUMstudy / VMEdu.com",
+    "fecha": "2018-08",
+    "enCurso": false,
+    "horas": null,
+    "area": "Liderazgo / Coordinación",
+    "claves": [
+      "Liderazgo / Coordinación",
+      "Scrum",
+      "Agile",
+      "Gestión de Proyectos"
+    ],
+    "url": "https://www.scrumstudy.com/certification/verify?type=SFC&number=646703"
+  },
+  {
+    "nombre": "Analista GeneXus 15",
+    "institucion": "GeneXus México",
+    "fecha": "2017-12",
+    "enCurso": false,
+    "horas": 70,
+    "area": "Legado (PHP/GeneXus)",
+    "claves": [
+      "Legado (PHP/GeneXus)",
+      "GeneXus",
+      "Legado"
+    ],
+    "url": "https://drive.google.com/file/d/13AlLy96oJm57DEnXX27W56NQPLyi3Pfh/view"
+  },
+  {
+    "nombre": "Curso Integral de Java y programación Web con HTML5",
+    "institucion": "NYCE",
+    "fecha": "2014-11",
+    "enCurso": false,
+    "horas": 92,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Desarrollo de aplicaciones con Interfaz Gráfica, Manejo de Eventos, Clases y Objetos en Java",
+    "institucion": "SENA",
+    "fecha": "2012-06",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Variables y estructuras de Control en la Programación orientada a objetos en Java",
+    "institucion": "SENA",
+    "fecha": "2012-05",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Desarrollo de Aplicaciones con Manejo de Archivos de Proceso Simultaneo y Uso de Menús",
+    "institucion": "SENA",
+    "fecha": "2012-05",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Desarrollo de Aplicaciones con Manejo de Archivos de Texto y el Manejo de Excepciones en Java",
+    "institucion": "SENA",
+    "fecha": "2012-04",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Full Stack, Backend / Java",
+    "claves": [
+      "Full Stack",
+      "Backend / Java",
+      "Java"
+    ],
+    "url": null
+  },
+  {
+    "nombre": "Programación de dispositivos móviles",
+    "institucion": "SENA",
+    "fecha": "2012-04",
+    "enCurso": false,
+    "horas": 40,
+    "area": "Android / Móvil",
+    "claves": [
+      "Android / Móvil"
+    ],
+    "url": null
+  }
+]

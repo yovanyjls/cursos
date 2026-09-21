@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Cursos y Certificaciones — Yovany Jesús López Serrano</title>
+<meta name="description" content="Catálogo buscable de cursos y certificaciones profesionales." />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+  <div class="masthead">
+    <div>
+      <span class="kicker">Yovany Jesús López Serrano</span>
+      <h1>Cursos y certificaciones</h1>
+    </div>
+    <div class="masthead-right">
+      <div class="tally" id="tally">Cargando…</div>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Cambiar a modo oscuro">🌙</button>
+    </div>
+  </div>
+  <p class="subhead">
+    Busca por nombre, área o palabra clave (por ejemplo, IA, AWS, SQL) y ordena por curso o fecha haciendo clic en el encabezado.
+  </p>
+
+  <div class="controls">
+    <div class="search-slot" id="searchSlot">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="buscador" placeholder="Buscar por curso, área o palabra clave (ej. IA, AWS, SQL)…" autocomplete="off" />
+      <button class="clear-btn" id="clearBtn" aria-label="Limpiar búsqueda">×</button>
+    </div>
+    <select class="area-select" id="areaSelect">
+      <option value="">Todas las áreas</option>
+    </select>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th class="sortable" data-sort="nombre" style="width:38%">
+            <button type="button">Curso <span class="caret"></span></button>
+          </th>
+          <th class="col-institucion">Institución</th>
+          <th class="sortable" data-sort="fecha">
+            <button type="button">Fecha <span class="caret"></span></button>
+          </th>
+          <th class="num">Horas</th>
+          <th>Certificado</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <div class="empty-state" id="emptyState" hidden>
+    <span class="glyph">🗂️</span>
+    Sin coincidencias para <strong id="emptyQuery"></strong>.
+  </div>
+
+  <footer class="note">
+    Los datos de esta página viven en <code>cursos.json</code> y se generan a partir de mi registro personal de cursos.
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
