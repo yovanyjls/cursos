@@ -1,33 +1,83 @@
+// ---------- configuracion: cambia SOLO estos dos valores para ajustar como
+// abre la pagina para alguien que la visita por primera vez (sin
+// preferencia guardada todavia en su navegador) ----------
+const IDIOMA_INICIAL = "es"; // "es" o "en"
+const TEMA_INICIAL = "light"; // "light" o "dark"
+// -----------------------------------------------------------------------
+
+const I18N = {
+  es: {
+    kicker: "Yovany Jesús López Serrano",
+    titulo: "Cursos y certificaciones",
+    subhead: "Busca por nombre, área o palabra clave (IA, AWS, SQL…), y ordena por curso o fecha haciendo clic en el encabezado. La URL real del certificado queda oculta detrás del botón “Ver certificado”.",
+    searchPlaceholder: "Buscar por curso, área o palabra clave (ej. IA, AWS, SQL)…",
+    clearAria: "Limpiar búsqueda",
+    allAreas: "Todas las áreas",
+    thCurso: "Curso",
+    thInstitucion: "Institución",
+    thFecha: "Fecha",
+    thHoras: "Horas",
+    thCertificado: "Certificado",
+    verCertificado: "Ver certificado ↗",
+    sinRegistro: "Sin registro digital",
+    enCurso: "En curso",
+    emptyPrefix: "Sin coincidencias para",
+    footer: "Los datos de esta página viven en cursos.es.json / cursos.en.json y se generan a partir de mi registro personal de cursos.",
+    registros: "registros",
+    de: "de",
+    meses: ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],
+    themeDark: "Cambiar a modo claro",
+    themeLight: "Cambiar a modo oscuro",
+    cargando: "Cargando…",
+    error: "No se pudieron cargar los cursos."
+  },
+  en: {
+    kicker: "Yovany Jesús López Serrano",
+    titulo: "Courses & certifications",
+    subhead: "Search by name, area or keyword (AI, AWS, SQL…), and sort by course or date by clicking the header. The real certificate URL stays hidden behind the “View certificate” button.",
+    searchPlaceholder: "Search by course, area or keyword (e.g. AI, AWS, SQL)…",
+    clearAria: "Clear search",
+    allAreas: "All areas",
+    thCurso: "Course",
+    thInstitucion: "Institution",
+    thFecha: "Date",
+    thHoras: "Hours",
+    thCertificado: "Certificate",
+    verCertificado: "View certificate ↗",
+    sinRegistro: "No digital record",
+    enCurso: "In progress",
+    emptyPrefix: "No matches for",
+    footer: "This page's data lives in cursos.es.json / cursos.en.json, generated from my personal course log.",
+    registros: "records",
+    de: "of",
+    meses: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+    themeDark: "Switch to light mode",
+    themeLight: "Switch to dark mode",
+    cargando: "Loading…",
+    error: "Could not load the courses."
+  }
+};
+
 const AREA_CLASS = {
   "Full Stack": "tag-fullstack",
   "Backend / Java": "tag-backend",
   "Android / Móvil": "tag-android",
+  "Android / Mobile": "tag-android",
   "Base de datos": "tag-database",
+  "Database": "tag-database",
   "Seguridad / Ciberseguridad": "tag-security",
+  "Security / Cybersecurity": "tag-security",
   "Inteligencia Artificial": "tag-ai",
+  "Artificial Intelligence": "tag-ai",
   "Datos / BI": "tag-data",
+  "Data / BI": "tag-data",
   "Liderazgo / Coordinación": "tag-lead",
+  "Leadership / Coordination": "tag-lead",
   "Legado (PHP/GeneXus)": "tag-legacy",
-  "General / Compliance / Bienestar": "tag-general"
+  "Legacy (PHP/GeneXus)": "tag-legacy",
+  "General / Compliance / Bienestar": "tag-general",
+  "General / Compliance / Wellness": "tag-general"
 };
-
-const MESES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
-
-function fechaLegible(c) {
-  if (c.enCurso) return "En curso";
-  if (!c.fecha) return "—";
-  const [y, m] = c.fecha.split("-");
-  return `${MESES[parseInt(m, 10) - 1]} ${y}`;
-}
-
-function fechaOrden(c) {
-  if (c.enCurso) return "9999-99";
-  return c.fecha || "0000-00";
-}
-
-function primeraArea(c) {
-  return c.area.split(",")[0].trim();
-}
 
 function escapeHtml(s) {
   return s.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
@@ -41,29 +91,11 @@ function resaltar(texto, consulta) {
   return safe.slice(0, idx) + "<mark>" + safe.slice(idx, idx + consulta.length) + "</mark>" + safe.slice(idx + consulta.length);
 }
 
-// ---------- claro / oscuro (manual, independiente del sistema operativo) ----------
-// Se aplica de inmediato, antes de cargar los datos, para no parpadear con el tema equivocado.
+const LANG_KEY = "cursos-idioma-preferido";
 const THEME_KEY = "cursos-tema-preferido";
-const themeToggle = document.getElementById("themeToggle");
 
-function aplicarTema(tema) {
-  document.documentElement.setAttribute("data-theme", tema);
-  themeToggle.textContent = tema === "dark" ? "☀️" : "🌙";
-  themeToggle.setAttribute("aria-label", tema === "dark" ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
-}
-
-let temaActual = localStorage.getItem(THEME_KEY)
-  || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-aplicarTema(temaActual);
-
-themeToggle.addEventListener("click", () => {
-  temaActual = temaActual === "dark" ? "light" : "dark";
-  localStorage.setItem(THEME_KEY, temaActual);
-  aplicarTema(temaActual);
-});
-
-// ---------- datos + tabla ----------
-let CURSOS = [];
+let idioma = localStorage.getItem(LANG_KEY) || IDIOMA_INICIAL;
+let DATOS = { es: [], en: [] };
 let orden = { campo: "fecha", dir: "desc" };
 let consulta = "";
 let areaFiltro = "";
@@ -76,15 +108,34 @@ const searchSlot = document.getElementById("searchSlot");
 const areaSelect = document.getElementById("areaSelect");
 const buscador = document.getElementById("buscador");
 const clearBtn = document.getElementById("clearBtn");
+const themeToggle = document.getElementById("themeToggle");
+const langEsBtn = document.getElementById("langEs");
+const langEnBtn = document.getElementById("langEn");
+
+function cursosActuales() { return DATOS[idioma]; }
+function t() { return I18N[idioma]; }
+
+function fechaLegible(c) {
+  if (c.enCurso) return t().enCurso;
+  if (!c.fecha) return "—";
+  const [y, m] = c.fecha.split("-");
+  return `${t().meses[parseInt(m, 10) - 1]} ${y}`;
+}
+
+function fechaOrden(c) {
+  if (c.enCurso) return "9999-99";
+  return c.fecha || "0000-00";
+}
+
+function primeraArea(c) { return c.area.split(",")[0].trim(); }
 
 function coincide(c) {
   if (areaFiltro && !c.area.split(",").map(a => a.trim()).includes(areaFiltro)) return false;
   if (!consulta) return true;
   const q = consulta.toLowerCase();
-  const enNombre = c.nombre.toLowerCase().includes(q);
-  const enArea = c.area.toLowerCase().includes(q);
-  const enClaves = c.claves.some(k => k.toLowerCase().includes(q));
-  return enNombre || enArea || enClaves;
+  return c.nombre.toLowerCase().includes(q)
+    || c.area.toLowerCase().includes(q)
+    || c.claves.some(k => k.toLowerCase().includes(q));
 }
 
 function ordenar(lista) {
@@ -99,8 +150,37 @@ function ordenar(lista) {
   });
 }
 
+function aplicarTextosEstaticos() {
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const clave = el.dataset.i18n;
+    if (t()[clave]) el.textContent = t()[clave];
+  });
+  buscador.placeholder = t().searchPlaceholder;
+  clearBtn.setAttribute("aria-label", t().clearAria);
+  document.title = idioma === "es"
+    ? "Cursos y Certificaciones — Yovany Jesús López Serrano"
+    : "Courses & Certifications — Yovany Jesús López Serrano";
+}
+
+function repoblarAreas() {
+  areaSelect.innerHTML = "";
+  const optTodas = document.createElement("option");
+  optTodas.value = "";
+  optTodas.textContent = t().allAreas;
+  areaSelect.appendChild(optTodas);
+  const areasUnicas = [...new Set(cursosActuales().flatMap(c => c.area.split(",").map(a => a.trim())))].sort();
+  for (const a of areasUnicas) {
+    const opt = document.createElement("option");
+    opt.value = a;
+    opt.textContent = a;
+    areaSelect.appendChild(opt);
+  }
+  areaFiltro = "";
+  areaSelect.value = "";
+}
+
 function pintar() {
-  const filtrados = ordenar(CURSOS.filter(coincide));
+  const filtrados = ordenar(cursosActuales().filter(coincide));
 
   tbody.innerHTML = "";
   emptyState.hidden = filtrados.length > 0;
@@ -113,14 +193,10 @@ function pintar() {
 
     const horasTxt = c.horas ? (Number.isInteger(c.horas) ? c.horas : c.horas.toFixed(1)) + " h" : "—";
     const certHtml = c.url
-      ? `<a class="cert-link" href="${c.url}" target="_blank" rel="noopener">Ver certificado ↗</a>`
-      : `<span class="cert-none">Sin registro digital</span>`;
-    const fechaTxt = c.enCurso
-      ? `<span class="badge-curso">En curso</span>`
-      : fechaLegible(c);
+      ? `<a class="cert-link" href="${c.url}" target="_blank" rel="noopener">${t().verCertificado}</a>`
+      : `<span class="cert-none">${t().sinRegistro}</span>`;
+    const fechaTxt = c.enCurso ? `<span class="badge-curso">${t().enCurso}</span>` : fechaLegible(c);
 
-    // Las palabras clave (c.claves) SOLO se usan para filtrar en coincide();
-    // no se muestran en la fila a propósito, para no saturar la tabla.
     tr.innerHTML = `
       <td class="curso-cell">
         <div class="curso-nombre">${resaltar(c.nombre, consulta)}</div>
@@ -136,9 +212,9 @@ function pintar() {
     tbody.appendChild(tr);
   }
 
-  tally.innerHTML = filtrados.length === CURSOS.length
-    ? `<strong>${CURSOS.length}</strong> registros`
-    : `<strong>${filtrados.length}</strong> de ${CURSOS.length}`;
+  tally.innerHTML = filtrados.length === cursosActuales().length
+    ? `<strong>${cursosActuales().length}</strong> ${t().registros}`
+    : `<strong>${filtrados.length}</strong> ${t().de} ${cursosActuales().length}`;
 }
 
 document.querySelectorAll("th.sortable").forEach(th => {
@@ -149,7 +225,7 @@ document.querySelectorAll("th.sortable").forEach(th => {
     } else {
       orden = { campo, dir: campo === "fecha" ? "desc" : "asc" };
     }
-    document.querySelectorAll("th.sortable").forEach(t => t.removeAttribute("aria-sort"));
+    document.querySelectorAll("th.sortable").forEach(t2 => t2.removeAttribute("aria-sort"));
     th.setAttribute("aria-sort", orden.dir === "asc" ? "ascending" : "descending");
     pintar();
   });
@@ -174,24 +250,54 @@ areaSelect.addEventListener("change", (e) => {
   pintar();
 });
 
+function reflejarBotonIdioma() {
+  langEsBtn.classList.toggle("active", idioma === "es");
+  langEnBtn.classList.toggle("active", idioma === "en");
+  document.documentElement.lang = idioma;
+}
+
+function cambiarIdioma(nuevo) {
+  if (idioma === nuevo) return;
+  idioma = nuevo;
+  localStorage.setItem(LANG_KEY, idioma);
+  reflejarBotonIdioma();
+  aplicarTextosEstaticos();
+  repoblarAreas();
+  pintar();
+}
+
+langEsBtn.addEventListener("click", () => cambiarIdioma("es"));
+langEnBtn.addEventListener("click", () => cambiarIdioma("en"));
+
+function aplicarTema(tema) {
+  document.documentElement.setAttribute("data-theme", tema);
+  themeToggle.textContent = tema === "dark" ? "☀️" : "🌙";
+  themeToggle.setAttribute("aria-label", tema === "dark" ? t().themeDark : t().themeLight);
+}
+
+let temaActual = localStorage.getItem(THEME_KEY) || TEMA_INICIAL;
+aplicarTema(temaActual);
+
+themeToggle.addEventListener("click", () => {
+  temaActual = temaActual === "dark" ? "light" : "dark";
+  localStorage.setItem(THEME_KEY, temaActual);
+  aplicarTema(temaActual);
+});
+
 document.querySelector('th[data-sort="fecha"]').setAttribute("aria-sort", "descending");
 
-fetch("cursos.json")
-  .then(r => r.json())
-  .then(data => {
-    CURSOS = data;
-
-    const areasUnicas = [...new Set(CURSOS.flatMap(c => c.area.split(",").map(a => a.trim())))].sort();
-    for (const a of areasUnicas) {
-      const opt = document.createElement("option");
-      opt.value = a;
-      opt.textContent = a;
-      areaSelect.appendChild(opt);
-    }
-
+Promise.all([
+  fetch("cursos.es.json").then(r => r.json()),
+  fetch("cursos.en.json").then(r => r.json())
+])
+  .then(([es, en]) => {
+    DATOS = { es, en };
+    reflejarBotonIdioma();
+    aplicarTextosEstaticos();
+    repoblarAreas();
     pintar();
   })
   .catch(err => {
-    tally.textContent = "Error al cargar cursos.json";
+    tally.textContent = t().error;
     console.error(err);
   });

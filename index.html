@@ -11,27 +11,29 @@
 <div class="wrap">
   <div class="masthead">
     <div>
-      <span class="kicker">Yovany Jesús López Serrano</span>
-      <h1>Cursos y certificaciones</h1>
+      <span class="kicker" data-i18n="kicker">Yovany Jesús López Serrano</span>
+      <h1 data-i18n="titulo">Cursos y certificaciones</h1>
     </div>
     <div class="masthead-right">
-      <div class="tally" id="tally">Cargando…</div>
+      <div class="lang-toggle" role="group" aria-label="Idioma / Language">
+        <button type="button" id="langEs">ES</button>
+        <button type="button" id="langEn">EN</button>
+      </div>
+      <div class="tally" id="tally">…</div>
       <button class="theme-toggle" id="themeToggle" type="button" aria-label="Cambiar a modo oscuro">🌙</button>
     </div>
   </div>
-  <p class="subhead">
+  <p class="subhead" data-i18n="subhead">
     Busca por nombre, área o palabra clave (por ejemplo, IA, AWS, SQL) y ordena por curso o fecha haciendo clic en el encabezado.
   </p>
 
   <div class="controls">
     <div class="search-slot" id="searchSlot">
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input type="text" id="buscador" placeholder="Buscar por curso, área o palabra clave (ej. IA, AWS, SQL)…" autocomplete="off" />
+      <input type="text" id="buscador" autocomplete="off" />
       <button class="clear-btn" id="clearBtn" aria-label="Limpiar búsqueda">×</button>
     </div>
-    <select class="area-select" id="areaSelect">
-      <option value="">Todas las áreas</option>
-    </select>
+    <select class="area-select" id="areaSelect"></select>
   </div>
 
   <div class="table-scroll">
@@ -39,14 +41,14 @@
       <thead>
         <tr>
           <th class="sortable" data-sort="nombre" style="width:38%">
-            <button type="button">Curso <span class="caret"></span></button>
+            <button type="button"><span data-i18n="thCurso">Curso</span> <span class="caret"></span></button>
           </th>
-          <th class="col-institucion">Institución</th>
+          <th class="col-institucion" data-i18n="thInstitucion">Institución</th>
           <th class="sortable" data-sort="fecha">
-            <button type="button">Fecha <span class="caret"></span></button>
+            <button type="button"><span data-i18n="thFecha">Fecha</span> <span class="caret"></span></button>
           </th>
-          <th class="num">Horas</th>
-          <th>Certificado</th>
+          <th class="num" data-i18n="thHoras">Horas</th>
+          <th data-i18n="thCertificado">Certificado</th>
         </tr>
       </thead>
       <tbody id="tbody"></tbody>
@@ -55,11 +57,11 @@
 
   <div class="empty-state" id="emptyState" hidden>
     <span class="glyph">🗂️</span>
-    Sin coincidencias para <strong id="emptyQuery"></strong>.
+    <span data-i18n="emptyPrefix">Sin coincidencias para</span> <strong id="emptyQuery"></strong>.
   </div>
 
-  <footer class="note">
-    Los datos de esta página viven en <code>cursos.json</code> y se generan a partir de mi registro personal de cursos.
+  <footer class="note" data-i18n="footer">
+    Los datos de esta página viven en cursos.es.json / cursos.en.json y se generan a partir de mi registro personal de cursos.
   </footer>
 </div>
 <script src="app.js"></script>
