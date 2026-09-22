@@ -222,6 +222,8 @@ body {
 
 .area-select:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
 
+.sort-select { display: none; }
+
 /* ---------- table ---------- */
 .table-scroll {
   overflow-x: auto;
@@ -398,7 +400,68 @@ footer.note {
 }
 
 @media (max-width: 640px) {
-  .col-institucion { display: none; }
+  .sort-select { display: block; }
+
+  .table-scroll {
+    overflow-x: visible;
+    border-top: none;
+  }
+
+  table {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  thead { display: none; }
+
+  tbody { display: block; }
+
+  tbody tr {
+    display: block;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.9rem 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  tbody tr:hover { background: none; }
+
+  tbody td {
+    display: block;
+    width: 100%;
+    max-width: none;
+    padding: 0.35rem 0;
+    border: none;
+    overflow-wrap: anywhere;
+  }
+
+  .curso-cell { padding-top: 0; }
+
+  td.institucion,
+  td.fecha,
+  td.horas,
+  .cert-cell {
+    border-top: 1px dashed var(--rule);
+    margin-top: 0.35rem;
+    padding-top: 0.55rem;
+  }
+
+  td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    margin-bottom: 0.2rem;
+  }
+
+  td.horas.num { text-align: left; }
+
+  .cert-link { width: 100%; justify-content: center; }
+  .cert-none { display: block; }
 }
 
 @media (prefers-reduced-motion: reduce) {

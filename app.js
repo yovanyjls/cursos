@@ -28,7 +28,12 @@ const I18N = {
     themeDark: "Cambiar a modo claro",
     themeLight: "Cambiar a modo oscuro",
     cargando: "Cargando…",
-    error: "No se pudieron cargar los cursos."
+    error: "No se pudieron cargar los cursos.",
+    sortAriaLabel: "Ordenar por",
+    sortFechaDesc: "Fecha: más reciente primero",
+    sortFechaAsc: "Fecha: más antigua primero",
+    sortNombreAsc: "Curso: A → Z",
+    sortNombreDesc: "Curso: Z → A"
   },
   en: {
     kicker: "Yovany Jesús López Serrano",
@@ -52,7 +57,12 @@ const I18N = {
     themeDark: "Switch to light mode",
     themeLight: "Switch to dark mode",
     cargando: "Loading…",
-    error: "Could not load the courses."
+    error: "Could not load the courses.",
+    sortAriaLabel: "Sort by",
+    sortFechaDesc: "Date: newest first",
+    sortFechaAsc: "Date: oldest first",
+    sortNombreAsc: "Course: A → Z",
+    sortNombreDesc: "Course: Z → A"
   }
 };
 
@@ -104,6 +114,7 @@ const emptyState = document.getElementById("emptyState");
 const emptyQuery = document.getElementById("emptyQuery");
 const searchSlot = document.getElementById("searchSlot");
 const areaSelect = document.getElementById("areaSelect");
+const sortSelect = document.getElementById("sortSelect");
 const buscador = document.getElementById("buscador");
 const clearBtn = document.getElementById("clearBtn");
 const themeToggle = document.getElementById("themeToggle");
@@ -158,6 +169,34 @@ function aplicarTextosEstaticos() {
   document.title = idioma === "es"
     ? "Cursos y Certificaciones — Yovany Jesús López Serrano"
     : "Courses & Certifications — Yovany Jesús López Serrano";
+  poblarSortSelect();
+}
+
+function poblarSortSelect() {
+  sortSelect.setAttribute("aria-label", t().sortAriaLabel);
+  sortSelect.innerHTML = "";
+  const opciones = [
+    ["fecha:desc", t().sortFechaDesc],
+    ["fecha:asc", t().sortFechaAsc],
+    ["nombre:asc", t().sortNombreAsc],
+    ["nombre:desc", t().sortNombreDesc]
+  ];
+  for (const [valor, etiqueta] of opciones) {
+    const opt = document.createElement("option");
+    opt.value = valor;
+    opt.textContent = etiqueta;
+    sortSelect.appendChild(opt);
+  }
+  sortSelect.value = `${orden.campo}:${orden.dir}`;
+}
+
+function fijarOrden(campo, dir) {
+  orden = { campo, dir };
+  document.querySelectorAll("th.sortable").forEach(t2 => t2.removeAttribute("aria-sort"));
+  const th = document.querySelector(`th.sortable[data-sort="${campo}"]`);
+  if (th) th.setAttribute("aria-sort", dir === "asc" ? "ascending" : "descending");
+  sortSelect.value = `${campo}:${dir}`;
+  pintar();
 }
 
 function repoblarAreas() {
@@ -202,10 +241,10 @@ function pintar() {
           <span class="tag ${tagClass}">${resaltar(area1, consulta)}</span>
         </div>
       </td>
-      <td class="institucion col-institucion">${escapeHtml(c.institucion)}</td>
-      <td class="fecha">${fechaTxt}</td>
-      <td class="horas num">${horasTxt}</td>
-      <td>${certHtml}</td>
+      <td class="institucion col-institucion" data-label="${t().thInstitucion}">${escapeHtml(c.institucion)}</td>
+      <td class="fecha" data-label="${t().thFecha}">${fechaTxt}</td>
+      <td class="horas num" data-label="${t().thHoras}">${horasTxt}</td>
+      <td class="cert-cell">${certHtml}</td>
     `;
     tbody.appendChild(tr);
   }
@@ -218,15 +257,16 @@ function pintar() {
 document.querySelectorAll("th.sortable").forEach(th => {
   th.addEventListener("click", () => {
     const campo = th.dataset.sort;
-    if (orden.campo === campo) {
-      orden.dir = orden.dir === "asc" ? "desc" : "asc";
-    } else {
-      orden = { campo, dir: campo === "fecha" ? "desc" : "asc" };
-    }
-    document.querySelectorAll("th.sortable").forEach(t2 => t2.removeAttribute("aria-sort"));
-    th.setAttribute("aria-sort", orden.dir === "asc" ? "ascending" : "descending");
-    pintar();
+    const dir = orden.campo === campo
+      ? (orden.dir === "asc" ? "desc" : "asc")
+      : (campo === "fecha" ? "desc" : "asc");
+    fijarOrden(campo, dir);
   });
+});
+
+sortSelect.addEventListener("change", (e) => {
+  const [campo, dir] = e.target.value.split(":");
+  fijarOrden(campo, dir);
 });
 
 buscador.addEventListener("input", (e) => {
