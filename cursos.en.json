@@ -14,6 +14,50 @@
     "url": null
   },
   {
+    "nombre": "Big Data Technician Diploma",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-10",
+    "enCurso": false,
+    "horas": null,
+    "area": "Data / BI",
+    "claves": [
+      "Data / BI",
+      "Big Data",
+      "Diploma",
+      "Data"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bd6877de-b5af-4770-82bd-d6cc4507bd38"
+  },
+  {
+    "nombre": "Big Data Visualizer",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-10",
+    "enCurso": false,
+    "horas": null,
+    "area": "Data / BI",
+    "claves": [
+      "Data / BI",
+      "Big Data",
+      "Data Visualization",
+      "Data"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d7a065f0-277b-4052-85e3-de992c497d29"
+  },
+  {
+    "nombre": "Data Analyst",
+    "institucion": "Capacítate para el Empleo",
+    "fecha": "2026-10",
+    "enCurso": false,
+    "horas": null,
+    "area": "Data / BI",
+    "claves": [
+      "Data / BI",
+      "Data Analysis",
+      "Data"
+    ],
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/b2a691be-37d6-4aba-be09-827388957c31"
+  },
+  {
     "nombre": "Prompt Designer for Generative AI Models",
     "institucion": "Capacítate para el Empleo",
     "fecha": "2026-09",
