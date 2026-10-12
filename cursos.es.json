@@ -12,7 +12,8 @@
       "IA",
       "AI"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Diplomado Técnico en Big Data",
@@ -27,7 +28,8 @@
       "Diplomado",
       "Datos"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bd6877de-b5af-4770-82bd-d6cc4507bd38"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bd6877de-b5af-4770-82bd-d6cc4507bd38",
+    "idCredencial": "bd6877de-b5af-4770-82bd-d6cc4507bd38"
   },
   {
     "nombre": "Visualizador de Big Data",
@@ -42,7 +44,8 @@
       "Visualización de datos",
       "Datos"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d7a065f0-277b-4052-85e3-de992c497d29"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d7a065f0-277b-4052-85e3-de992c497d29",
+    "idCredencial": "d7a065f0-277b-4052-85e3-de992c497d29"
   },
   {
     "nombre": "Analista de datos",
@@ -56,7 +59,8 @@
       "Análisis de datos",
       "Datos"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/b2a691be-37d6-4aba-be09-827388957c31"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/b2a691be-37d6-4aba-be09-827388957c31",
+    "idCredencial": "b2a691be-37d6-4aba-be09-827388957c31"
   },
   {
     "nombre": "Diseñador de peticiones para modelos de IA generativa",
@@ -71,7 +75,8 @@
       "IA Generativa",
       "Generative AI"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/aca3f9b8-d024-4f2e-ad2e-76f19467fab9"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/aca3f9b8-d024-4f2e-ad2e-76f19467fab9",
+    "idCredencial": "aca3f9b8-d024-4f2e-ad2e-76f19467fab9"
   },
   {
     "nombre": "Cybersecurity Fundamentals",
@@ -83,7 +88,8 @@
     "claves": [
       "Seguridad / Ciberseguridad"
     ],
-    "url": "https://drive.google.com/file/d/1wue_Ho8nLg1YeaD3oUt7OokQWAosd1LK/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1wue_Ho8nLg1YeaD3oUt7OokQWAosd1LK/view?usp=sharing",
+    "idCredencial": "OA-2026-0920003217309"
   },
   {
     "nombre": "Master AI with Gemini",
@@ -98,7 +104,8 @@
       "IA",
       "Google"
     ],
-    "url": "https://drive.google.com/file/d/1h1kg8kHQDAd3XGkSNM1QYx_wohl9RPu1/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1h1kg8kHQDAd3XGkSNM1QYx_wohl9RPu1/view?usp=sharing",
+    "idCredencial": "OA-2026-0920003216630"
   },
   {
     "nombre": "Strategic Thinking & Strategic Mindset",
@@ -110,7 +117,8 @@
     "claves": [
       "Liderazgo / Coordinación"
     ],
-    "url": "https://drive.google.com/file/d/1STmllApV5wtz8ARzlpanRM4Ox3rYeiAV/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1STmllApV5wtz8ARzlpanRM4Ox3rYeiAV/view?usp=sharing",
+    "idCredencial": "OA-2026-0919003216286"
   },
   {
     "nombre": "Workplace well-being and stress",
@@ -122,7 +130,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://drive.google.com/file/d/1eu7eHYoGfyE_sUZr9_hn3sdy23bV3TDi/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1eu7eHYoGfyE_sUZr9_hn3sdy23bV3TDi/view?usp=sharing",
+    "idCredencial": "OA-2026-0919003216200"
   },
   {
     "nombre": "Safe, Fair, and Legal: How to Use AI Right",
@@ -135,7 +144,8 @@
       "Inteligencia Artificial",
       "Seguridad / Ciberseguridad"
     ],
-    "url": "https://drive.google.com/file/d/1f8lcDMIVTs7PoFl4_s2rs981rEakQXx4/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1f8lcDMIVTs7PoFl4_s2rs981rEakQXx4/view?usp=sharing",
+    "idCredencial": "OA-2026-0919003216119"
   },
   {
     "nombre": "Introducción a la estadística y probabilidad",
@@ -150,7 +160,8 @@
       "Datos",
       "Probabilidad"
     ],
-    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/ca2a40ab-48bd-48fb-917f-17e153e7b520"
+    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/ca2a40ab-48bd-48fb-917f-17e153e7b520",
+    "idCredencial": "ca2a40ab-48bd-48fb-917f-17e153e7b520"
   },
   {
     "nombre": "Copilot Master AI in Microsoft 365",
@@ -165,7 +176,8 @@
       "IA",
       "Microsoft"
     ],
-    "url": "https://drive.google.com/file/d/19GIabySuiye15bHnkBuD4Nd9nqeyaT5r/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/19GIabySuiye15bHnkBuD4Nd9nqeyaT5r/view?usp=sharing",
+    "idCredencial": "OA-2026-0919003215818"
   },
   {
     "nombre": "Introducción a la ciberseguridad",
@@ -179,7 +191,8 @@
       "Ciberseguridad",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/13079703-9f6c-4c53-b1ed-03fe68cc0146"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/13079703-9f6c-4c53-b1ed-03fe68cc0146",
+    "idCredencial": "13079703-9f6c-4c53-b1ed-03fe68cc0146"
   },
   {
     "nombre": "Semana de Excel en la Práctica",
@@ -193,7 +206,8 @@
       "Excel",
       "Ofimática"
     ],
-    "url": "https://drive.google.com/file/d/1xBjthHZMZeQ0o9wlr0hxJSJ8Y_6cD-cy/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1xBjthHZMZeQ0o9wlr0hxJSJ8Y_6cD-cy/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Inmersión Agentes de IA en la Práctica",
@@ -207,7 +221,8 @@
       "IA",
       "Agentes de IA"
     ],
-    "url": "https://drive.google.com/file/d/1pQzHjExxgW0rUTMYkcnwzoS7IRLnxEcp/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1pQzHjExxgW0rUTMYkcnwzoS7IRLnxEcp/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Java Foundations",
@@ -221,7 +236,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": "https://drive.google.com/file/d/1x8Cr5Zc41eXEqGMl3TeazBb8LJqRCSkY/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1x8Cr5Zc41eXEqGMl3TeazBb8LJqRCSkY/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Java Fundamentals",
@@ -235,7 +251,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": "https://drive.google.com/file/d/1n97wVctCqvSf_ym6zQzX5lkSir-sPdf-/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1n97wVctCqvSf_ym6zQzX5lkSir-sPdf-/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Oracle Java Learning Path",
@@ -252,7 +269,8 @@
       "Base de datos",
       "SQL"
     ],
-    "url": "https://drive.google.com/file/d/1fO6DS1B04x8o4sRfwE2jxGNtcsVazQha/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1fO6DS1B04x8o4sRfwE2jxGNtcsVazQha/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Inmersión Inteligencia Artificial en la Práctica",
@@ -266,7 +284,8 @@
       "IA",
       "AI"
     ],
-    "url": "https://drive.google.com/file/d/1BOssUpv8C60akkd_PLik7-t5vvD4kv93/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1BOssUpv8C60akkd_PLik7-t5vvD4kv93/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Semana de Python en la Práctica",
@@ -281,7 +300,8 @@
       "Inteligencia Artificial",
       "Python"
     ],
-    "url": "https://drive.google.com/file/d/104hd9LOwMt1lUuH5agoYonq59MNPl19d/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/104hd9LOwMt1lUuH5agoYonq59MNPl19d/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Curso Propedéutico del Centro Público de Formación en Inteligencia Artificial",
@@ -295,7 +315,8 @@
       "IA",
       "AI"
     ],
-    "url": "https://mooc.tecnm.mx/certificates/ef8fc48f5f114d9a915250697f65e7d1"
+    "url": "https://mooc.tecnm.mx/certificates/ef8fc48f5f114d9a915250697f65e7d1",
+    "idCredencial": "ef8fc48f5f114d9a915250697f65e7d1"
   },
   {
     "nombre": "Concientización en Seguridad de la Información",
@@ -308,7 +329,8 @@
       "Seguridad / Ciberseguridad",
       "Seguridad"
     ],
-    "url": "https://drive.google.com/file/d/14weamaoH1blqc-uyK-tuUyjtQHGGPcRm/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/14weamaoH1blqc-uyK-tuUyjtQHGGPcRm/view?usp=sharing",
+    "idCredencial": "p26hUog1c2"
   },
   {
     "nombre": "GitHub para programadores",
@@ -324,7 +346,8 @@
       "GitHub",
       "Git"
     ],
-    "url": "https://www.linkedin.com/learning/certificates/e054db948e09736d802c943e592ae52c8d1aa1c795a4f3cdbe3b801b08a8c36a?trk=share_certificate"
+    "url": "https://www.linkedin.com/learning/certificates/e054db948e09736d802c943e592ae52c8d1aa1c795a4f3cdbe3b801b08a8c36a?trk=share_certificate",
+    "idCredencial": "e054db948e09736d802c943e592ae52c8d1aa1c795a4f3cdbe3b801b08a8c36a"
   },
   {
     "nombre": "Claude Code: A Highly Agentic Coding Assistant",
@@ -341,7 +364,8 @@
       "IA",
       "Anthropic"
     ],
-    "url": "https://learn.deeplearning.ai/accomplishments/eb1a8ee9-6d33-4993-bf7b-b3e064d23196"
+    "url": "https://learn.deeplearning.ai/accomplishments/eb1a8ee9-6d33-4993-bf7b-b3e064d23196",
+    "idCredencial": "eb1a8ee9-6d33-4993-bf7b-b3e064d23196"
   },
   {
     "nombre": "Leading in a Digital World",
@@ -353,7 +377,8 @@
     "claves": [
       "Liderazgo / Coordinación"
     ],
-    "url": "https://drive.google.com/drive/folders/12F2usL3rBYPOQnRuGMX6ZuAmQZ_SPBsG"
+    "url": "https://drive.google.com/drive/folders/12F2usL3rBYPOQnRuGMX6ZuAmQZ_SPBsG",
+    "idCredencial": "OA-2025-0925001766854"
   },
   {
     "nombre": "Quarkus avanzado",
@@ -369,7 +394,8 @@
       "Java",
       "Backend"
     ],
-    "url": "https://www.linkedin.com/learning/certificates/239448cc0feef08efb39b10e67155a658a018f19052e65aeb2a4b76b0542e39e?trk=share_certificate"
+    "url": "https://www.linkedin.com/learning/certificates/239448cc0feef08efb39b10e67155a658a018f19052e65aeb2a4b76b0542e39e?trk=share_certificate",
+    "idCredencial": "239448cc0feef08efb39b10e67155a658a018f19052e65aeb2a4b76b0542e39e"
   },
   {
     "nombre": "Criptografía (Teórico y Práctico)",
@@ -385,7 +411,8 @@
       "Seguridad",
       "Cifrado"
     ],
-    "url": "https://www.udemy.com/certificate/UC-946ce28b-7028-4505-8d1b-6d583086d2b2/"
+    "url": "https://www.udemy.com/certificate/UC-946ce28b-7028-4505-8d1b-6d583086d2b2/",
+    "idCredencial": "UC-946ce28b-7028-4505-8d1b-6d583086d2b2"
   },
   {
     "nombre": "Salud Financiera",
@@ -397,7 +424,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://saludfinanciera.online/cert-sf/alumni?token=fa96f4fe5492eeffc995dfac7a6f024c"
+    "url": "https://saludfinanciera.online/cert-sf/alumni?token=fa96f4fe5492eeffc995dfac7a6f024c",
+    "idCredencial": "SF-KSKKK0"
   },
   {
     "nombre": "Quarkus esencial",
@@ -413,7 +441,8 @@
       "Java",
       "Backend"
     ],
-    "url": "https://www.linkedin.com/learning/certificates/a8a24d5623c3e8d87f48c181b9297fb15838c9ec6a01aada1fef3ff0333b2874?trk=share_certificate"
+    "url": "https://www.linkedin.com/learning/certificates/a8a24d5623c3e8d87f48c181b9297fb15838c9ec6a01aada1fef3ff0333b2874?trk=share_certificate",
+    "idCredencial": "a8a24d5623c3e8d87f48c181b9297fb15838c9ec6a01aada1fef3ff0333b2874"
   },
   {
     "nombre": "Inmersión IA",
@@ -426,7 +455,8 @@
       "Inteligencia Artificial",
       "IA"
     ],
-    "url": "https://credsverse.com/credentials/6ba06616-99d0-4621-b305-be78c2e95ad6"
+    "url": "https://credsverse.com/credentials/6ba06616-99d0-4621-b305-be78c2e95ad6",
+    "idCredencial": "6ba06616-99d0-4621-b305-be78c2e95ad6"
   },
   {
     "nombre": "Digital Transformation",
@@ -439,7 +469,8 @@
       "Liderazgo / Coordinación",
       "Inteligencia Artificial"
     ],
-    "url": "https://drive.google.com/file/d/17AExWbNrL3lUh-Ysaa7ubmWd620SLzEW/view"
+    "url": "https://drive.google.com/file/d/17AExWbNrL3lUh-Ysaa7ubmWd620SLzEW/view",
+    "idCredencial": "OA-2025-0904001678623"
   },
   {
     "nombre": "Power BI",
@@ -455,7 +486,8 @@
       "BI",
       "Datos"
     ],
-    "url": "https://drive.google.com/file/d/1ZGUNMPz98jVXND9oGik_4qOdOtHEO5KP/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1ZGUNMPz98jVXND9oGik_4qOdOtHEO5KP/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Acelerador de Carrera con Power BI + IA",
@@ -473,7 +505,8 @@
       "BI",
       "Datos"
     ],
-    "url": "https://drive.google.com/file/d/1R8ejdLYjDODa79chBiY6LuLiW7VZW5Vj/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1R8ejdLYjDODa79chBiY6LuLiW7VZW5Vj/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Responsible prompting: maximize AI in your business",
@@ -487,7 +520,8 @@
       "Prompting",
       "IA"
     ],
-    "url": "https://drive.google.com/file/d/19P9K-rJhQlLNOUKgEsLMKmhQ0C4tBCdO/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/19P9K-rJhQlLNOUKgEsLMKmhQ0C4tBCdO/view?usp=sharing",
+    "idCredencial": "OA-2025-0829001653346"
   },
   {
     "nombre": "Crear Agentes de AI con Copilot Studio",
@@ -503,7 +537,8 @@
       "Microsoft",
       "Agentes de IA"
     ],
-    "url": "https://platzi.com/p/610/curso/12261-copilot-studio/diploma/detalle/"
+    "url": "https://platzi.com/p/610/curso/12261-copilot-studio/diploma/detalle/",
+    "idCredencial": "9b89a119-9da6-4493-a704-6deea83cdab8"
   },
   {
     "nombre": "Introducción a la Inteligencia Artificial",
@@ -517,7 +552,8 @@
       "IA",
       "AI"
     ],
-    "url": "https://platzi.com/p/610/curso/11157-introduccion-ai/diploma/detalle/"
+    "url": "https://platzi.com/p/610/curso/11157-introduccion-ai/diploma/detalle/",
+    "idCredencial": "de4e505e-ffc2-4ccf-b93a-68960fc3773c"
   },
   {
     "nombre": "Critical Thinking & Problem Solving",
@@ -529,7 +565,8 @@
     "claves": [
       "Liderazgo / Coordinación"
     ],
-    "url": "https://drive.google.com/file/d/1rQAHlGBrcXBv0LkHr3zwnEeBkyMtyoXu/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1rQAHlGBrcXBv0LkHr3zwnEeBkyMtyoXu/view?usp=sharing",
+    "idCredencial": "OA-2025-0824001633073"
   },
   {
     "nombre": "Introduction to Data Science",
@@ -544,7 +581,8 @@
       "Datos",
       "Ciencia de Datos"
     ],
-    "url": "https://drive.google.com/file/d/1IAMvdep0HvLojTI5VZvwZ1PiZci3E2vS/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1IAMvdep0HvLojTI5VZvwZ1PiZci3E2vS/view?usp=sharing",
+    "idCredencial": "OA-2025-0824001632169"
   },
   {
     "nombre": "Programador (orientado a objetos)",
@@ -557,7 +595,8 @@
       "Full Stack",
       "Backend / Java"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/7bc479b2-a926-4e60-a1d8-5084b7925e63"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/7bc479b2-a926-4e60-a1d8-5084b7925e63",
+    "idCredencial": "7bc479b2-a926-4e60-a1d8-5084b7925e63"
   },
   {
     "nombre": "Administración del tiempo",
@@ -569,7 +608,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://aprende.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/f7eff723-5936-470a-9832-eb2a7da99318"
+    "url": "https://aprende.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/f7eff723-5936-470a-9832-eb2a7da99318",
+    "idCredencial": "f7eff723-5936-470a-9832-eb2a7da99318"
   },
   {
     "nombre": "Leadership",
@@ -583,7 +623,8 @@
       "Liderazgo",
       "Leadership"
     ],
-    "url": "https://drive.google.com/file/d/1iDFCeZFuGVPuwqYCDRftks1gRRnAhZa_/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1iDFCeZFuGVPuwqYCDRftks1gRRnAhZa_/view?usp=sharing",
+    "idCredencial": "OA-2025-0823001630279"
   },
   {
     "nombre": "Lead with Impact: Tools for managing projects and people",
@@ -595,7 +636,8 @@
     "claves": [
       "Liderazgo / Coordinación"
     ],
-    "url": "https://drive.google.com/file/d/190-0XhqELS8xt_ipRemsfjON-beC_qFU/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/190-0XhqELS8xt_ipRemsfjON-beC_qFU/view?usp=sharing",
+    "idCredencial": "OA-2025-0819001609461"
   },
   {
     "nombre": "IA Generativa",
@@ -610,7 +652,8 @@
       "IA Generativa",
       "Generative AI"
     ],
-    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/2acff588-8216-422d-8408-f0538463e9ba"
+    "url": "https://capacitateparaelempleo.org/verifica/8b3136bd-ef8b-47b1-bfbd-c8a2dc76aa99/2acff588-8216-422d-8408-f0538463e9ba",
+    "idCredencial": "2acff588-8216-422d-8408-f0538463e9ba"
   },
   {
     "nombre": "Curso de Oracle básico desde cero (SQL y PL/SQL)",
@@ -626,7 +669,8 @@
       "SQL",
       "PL/SQL"
     ],
-    "url": "https://www.udemy.com/certificate/UC-a4c3c0e7-17bc-4a9d-b062-22e1845a8087/"
+    "url": "https://www.udemy.com/certificate/UC-a4c3c0e7-17bc-4a9d-b062-22e1845a8087/",
+    "idCredencial": "UC-a4c3c0e7-17bc-4a9d-b062-22e1845a8087"
   },
   {
     "nombre": "Copilot",
@@ -641,7 +685,8 @@
       "IA",
       "Microsoft"
     ],
-    "url": "https://drive.google.com/file/d/1lgTEajiZc70gxUoczyHImeNWl9xC-bdF/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1lgTEajiZc70gxUoczyHImeNWl9xC-bdF/view?usp=sharing",
+    "idCredencial": "OA-2025-0814001589609"
   },
   {
     "nombre": "Project Management & Agile Fundamentals",
@@ -659,7 +704,8 @@
       "Gestión",
       "Management"
     ],
-    "url": "https://drive.google.com/file/d/1cBy78G7STr2Yp5eU24EW2MF824OOpo5n/view"
+    "url": "https://drive.google.com/file/d/1cBy78G7STr2Yp5eU24EW2MF824OOpo5n/view",
+    "idCredencial": "OA-2025-0809001556887"
   },
   {
     "nombre": "Finder",
@@ -671,7 +717,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/9a6aed94-c1c6-4b0f-8bb1-1ad7e2ac4c5c"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/9a6aed94-c1c6-4b0f-8bb1-1ad7e2ac4c5c",
+    "idCredencial": "9a6aed94-c1c6-4b0f-8bb1-1ad7e2ac4c5c"
   },
   {
     "nombre": "Administrador de bases de datos",
@@ -683,7 +730,8 @@
     "claves": [
       "Base de datos"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/2c994064-603f-4d84-8dca-4b4c894eca30"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/2c994064-603f-4d84-8dca-4b4c894eca30",
+    "idCredencial": "2c994064-603f-4d84-8dca-4b4c894eca30"
   },
   {
     "nombre": "Introduction to Generative IA",
@@ -698,7 +746,8 @@
       "IA Generativa",
       "Generative AI"
     ],
-    "url": "https://drive.google.com/file/d/1EcqSkXR8U3TBttQsmrW8Kp3un9rKqs8F/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1EcqSkXR8U3TBttQsmrW8Kp3un9rKqs8F/view?usp=sharing",
+    "idCredencial": "OA-2025-0806001543022"
   },
   {
     "nombre": "ChatGPT Fundamentals",
@@ -713,7 +762,8 @@
       "IA",
       "OpenAI"
     ],
-    "url": "https://drive.google.com/file/d/1mbZMcfxITkNZWgV_qT2neL7UhVgEscmw/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1mbZMcfxITkNZWgV_qT2neL7UhVgEscmw/view?usp=sharing",
+    "idCredencial": "OA-2025-0806001542703"
   },
   {
     "nombre": "Excel",
@@ -727,7 +777,8 @@
       "Excel",
       "Ofimática"
     ],
-    "url": "https://drive.google.com/file/d/1Mnxlhv4FH-wCHRJE4q9g7O8y6V3E_sRr/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1Mnxlhv4FH-wCHRJE4q9g7O8y6V3E_sRr/view?usp=sharing",
+    "idCredencial": "OA-2025-0805001534599"
   },
   {
     "nombre": "Domina la IA con Gemini",
@@ -742,7 +793,8 @@
       "Gemini",
       "Google"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/Tf8yf23mxDcN7srG16DUw2ef"
+    "url": "https://skillshop.exceedlms.com/student/award/Tf8yf23mxDcN7srG16DUw2ef",
+    "idCredencial": "420860420"
   },
   {
     "nombre": "Productividad Personal",
@@ -754,7 +806,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/qtkbvjSJGQyz6gSXgahn1yBX"
+    "url": "https://skillshop.exceedlms.com/student/award/qtkbvjSJGQyz6gSXgahn1yBX",
+    "idCredencial": "420852737"
   },
   {
     "nombre": "Google Inteligencia Artificial y productividad",
@@ -768,7 +821,8 @@
       "IA",
       "AI"
     ],
-    "url": "https://drive.google.com/file/d/1nUDgwUNGAYiWK-pf7tu2lHmNA34zpTMR/view"
+    "url": "https://drive.google.com/file/d/1nUDgwUNGAYiWK-pf7tu2lHmNA34zpTMR/view",
+    "idCredencial": "OA-2025-0802001522392"
   },
   {
     "nombre": "Python",
@@ -782,7 +836,8 @@
       "Datos / BI",
       "Python"
     ],
-    "url": "https://drive.google.com/file/d/1eIyOIZPg7vNoeAw0zzlV1yAOzHF4pJka/view"
+    "url": "https://drive.google.com/file/d/1eIyOIZPg7vNoeAw0zzlV1yAOzHF4pJka/view",
+    "idCredencial": "OA-2025-0801001517071"
   },
   {
     "nombre": "Time Management",
@@ -796,7 +851,8 @@
       "Gestión",
       "Management"
     ],
-    "url": "https://drive.google.com/file/d/1G4lZ8cQe3Pvip7gMiwrVxhmqaL5oPqv4/view?usp=sharing"
+    "url": "https://drive.google.com/file/d/1G4lZ8cQe3Pvip7gMiwrVxhmqaL5oPqv4/view?usp=sharing",
+    "idCredencial": null
   },
   {
     "nombre": "Cursor con Python: desarrollo inteligente con IA",
@@ -811,7 +867,8 @@
       "IA",
       "Python"
     ],
-    "url": "https://drive.google.com/file/d/1uTCreT6BgiBehYON61IboimIJv6GYW-w/view"
+    "url": "https://drive.google.com/file/d/1uTCreT6BgiBehYON61IboimIJv6GYW-w/view",
+    "idCredencial": "OA-2025-0730001505435"
   },
   {
     "nombre": "Protege tu Negocio: Ciberseguridad en el Teletrabajo",
@@ -825,7 +882,8 @@
       "Ciberseguridad",
       "Seguridad"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/nkspYvL9V4GZyKRLHVom6eN3"
+    "url": "https://skillshop.exceedlms.com/student/award/nkspYvL9V4GZyKRLHVom6eN3",
+    "idCredencial": "419437228"
   },
   {
     "nombre": "Competencias digitales para profesionales",
@@ -837,7 +895,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/eNhAbY1d2PE5swi8Q7LLUXv2"
+    "url": "https://skillshop.exceedlms.com/student/award/eNhAbY1d2PE5swi8Q7LLUXv2",
+    "idCredencial": "419435387"
   },
   {
     "nombre": "Cloud Computing",
@@ -851,7 +910,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/ZGdhWyXUKhrPoYGmao4L5q54"
+    "url": "https://skillshop.exceedlms.com/student/award/ZGdhWyXUKhrPoYGmao4L5q54",
+    "idCredencial": null
   },
   {
     "nombre": "Introducción a Excel 2010",
@@ -865,7 +925,8 @@
       "Excel",
       "Ofimática"
     ],
-    "url": "https://www.udemy.com/certificate/UC-e026c074-c48c-4d0f-8ace-ef53a52ba4d3/"
+    "url": "https://www.udemy.com/certificate/UC-e026c074-c48c-4d0f-8ace-ef53a52ba4d3/",
+    "idCredencial": "UC-e026c074-c48c-4d0f-8ace-ef53a52ba4d3"
   },
   {
     "nombre": "Curso de Desarrollo de Apps Móviles",
@@ -877,7 +938,8 @@
     "claves": [
       "Android / Móvil"
     ],
-    "url": "https://skillshop.exceedlms.com/student/award/E4bifTQdskqBJppXxria6JuA"
+    "url": "https://skillshop.exceedlms.com/student/award/E4bifTQdskqBJppXxria6JuA",
+    "idCredencial": "160905282"
   },
   {
     "nombre": "Curador de datos",
@@ -889,7 +951,8 @@
     "claves": [
       "Datos / BI"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/23b7fba9-dfab-47a9-9a97-fb73082f6e10"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/23b7fba9-dfab-47a9-9a97-fb73082f6e10",
+    "idCredencial": "23b7fba9-dfab-47a9-9a97-fb73082f6e10"
   },
   {
     "nombre": "Microsoft Project 2016",
@@ -901,7 +964,8 @@
     "claves": [
       "Liderazgo / Coordinación"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/c70fb32f-8875-4adc-bc18-6ff3c94645bb"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/c70fb32f-8875-4adc-bc18-6ff3c94645bb",
+    "idCredencial": "c70fb32f-8875-4adc-bc18-6ff3c94645bb"
   },
   {
     "nombre": "Microsoft Excel 2016",
@@ -915,7 +979,8 @@
       "Excel",
       "Ofimática"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/342eb7aa-5749-4d65-bb51-2506d2b0a60a"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/342eb7aa-5749-4d65-bb51-2506d2b0a60a",
+    "idCredencial": "342eb7aa-5749-4d65-bb51-2506d2b0a60a"
   },
   {
     "nombre": "Seguridad de la Información",
@@ -928,7 +993,8 @@
       "Seguridad / Ciberseguridad",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e3fdbd94-fcea-42fa-a1c6-3011110375aa"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e3fdbd94-fcea-42fa-a1c6-3011110375aa",
+    "idCredencial": "e3fdbd94-fcea-42fa-a1c6-3011110375aa"
   },
   {
     "nombre": "Desarrollador de aplicaciones en la nube",
@@ -940,7 +1006,8 @@
     "claves": [
       "Cloud / AWS"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/771348a1-115d-4ead-830f-2e008a3bcd63"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/771348a1-115d-4ead-830f-2e008a3bcd63",
+    "idCredencial": "771348a1-115d-4ead-830f-2e008a3bcd63"
   },
   {
     "nombre": "Curso de App Store Optimization (ASO) de la A a la Z",
@@ -956,7 +1023,8 @@
       "Android",
       "Móvil"
     ],
-    "url": "https://www.udemy.com/certificate/UC-1a1fe39e-481d-4e4f-8682-f2e218f07eff/"
+    "url": "https://www.udemy.com/certificate/UC-1a1fe39e-481d-4e4f-8682-f2e218f07eff/",
+    "idCredencial": "UC-1a1fe39e-481d-4e4f-8682-f2e218f07eff"
   },
   {
     "nombre": "Seguridad e higiene en ambiente laboral",
@@ -969,7 +1037,8 @@
       "General / Compliance / Bienestar",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/6e61f140-4410-4910-aaf6-b26b146a08a0"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/6e61f140-4410-4910-aaf6-b26b146a08a0",
+    "idCredencial": "6e61f140-4410-4910-aaf6-b26b146a08a0"
   },
   {
     "nombre": "Cultura HITSS - América Móvil",
@@ -981,7 +1050,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/938c91c5-bce0-4696-9dff-d67eb1d6059e"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/938c91c5-bce0-4696-9dff-d67eb1d6059e",
+    "idCredencial": "938c91c5-bce0-4696-9dff-d67eb1d6059e"
   },
   {
     "nombre": "Microsoft Teams",
@@ -993,7 +1063,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bbae51be-062d-441a-976f-8a2834213913"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/bbae51be-062d-441a-976f-8a2834213913",
+    "idCredencial": "bbae51be-062d-441a-976f-8a2834213913"
   },
   {
     "nombre": "Prevención de riesgos psicosociales",
@@ -1005,7 +1076,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/a0a09673-4df4-4d45-a7b4-a77e2ceaf996"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/a0a09673-4df4-4d45-a7b4-a77e2ceaf996",
+    "idCredencial": "a0a09673-4df4-4d45-a7b4-a77e2ceaf996"
   },
   {
     "nombre": "Ergonometría digital",
@@ -1017,7 +1089,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/8b59a262-57d3-4668-b70e-de0a79815867"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/8b59a262-57d3-4668-b70e-de0a79815867",
+    "idCredencial": "8b59a262-57d3-4668-b70e-de0a79815867"
   },
   {
     "nombre": "Salud Digital",
@@ -1029,7 +1102,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/63c63b61-e4cd-4832-b524-d7c862ea1e14"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/63c63b61-e4cd-4832-b524-d7c862ea1e14",
+    "idCredencial": "63c63b61-e4cd-4832-b524-d7c862ea1e14"
   },
   {
     "nombre": "Introducción a SQL con Oracle 11g",
@@ -1043,7 +1117,8 @@
       "Oracle",
       "SQL"
     ],
-    "url": "https://www.udemy.com/certificate/UC-d3d730fb-7ce1-43cd-ad26-9d35b73cfd99/"
+    "url": "https://www.udemy.com/certificate/UC-d3d730fb-7ce1-43cd-ad26-9d35b73cfd99/",
+    "idCredencial": "UC-d3d730fb-7ce1-43cd-ad26-9d35b73cfd99"
   },
   {
     "nombre": "Introducción a la sustentabilidad empresarial",
@@ -1055,7 +1130,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/5473f1a4-6ce2-4a58-982a-5d52c032f603"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/5473f1a4-6ce2-4a58-982a-5d52c032f603",
+    "idCredencial": "5473f1a4-6ce2-4a58-982a-5d52c032f603"
   },
   {
     "nombre": "Crea una app con ChatGPT en Android: Curso completo",
@@ -1073,7 +1149,8 @@
       "Android",
       "Móvil"
     ],
-    "url": "https://www.udemy.com/certificate/UC-869e1020-7ff8-4448-b75e-48427373d898/"
+    "url": "https://www.udemy.com/certificate/UC-869e1020-7ff8-4448-b75e-48427373d898/",
+    "idCredencial": "UC-869e1020-7ff8-4448-b75e-48427373d898"
   },
   {
     "nombre": "Android y Kotlin Desde Cero",
@@ -1088,7 +1165,8 @@
       "Android",
       "Móvil"
     ],
-    "url": "https://www.udemy.com/certificate/UC-6d473bb5-2787-4c58-8a6b-dfe8807879c2/"
+    "url": "https://www.udemy.com/certificate/UC-6d473bb5-2787-4c58-8a6b-dfe8807879c2/",
+    "idCredencial": "UC-6d473bb5-2787-4c58-8a6b-dfe8807879c2"
   },
   {
     "nombre": "Curso básico de Kotlin para Android: Fundamentos de 0 a 100",
@@ -1103,7 +1181,8 @@
       "Android",
       "Móvil"
     ],
-    "url": "https://www.udemy.com/certificate/UC-723f07df-0774-488e-aa32-ee032561cf56/"
+    "url": "https://www.udemy.com/certificate/UC-723f07df-0774-488e-aa32-ee032561cf56/",
+    "idCredencial": "UC-723f07df-0774-488e-aa32-ee032561cf56"
   },
   {
     "nombre": "Código de Ética América Móvil",
@@ -1115,7 +1194,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d1ed7a7c-5419-4cd2-91f1-68b8f38a8a3b"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/d1ed7a7c-5419-4cd2-91f1-68b8f38a8a3b",
+    "idCredencial": "d1ed7a7c-5419-4cd2-91f1-68b8f38a8a3b"
   },
   {
     "nombre": "Protección de Datos Personales de Global Hitss",
@@ -1130,7 +1210,8 @@
       "Privacidad",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/57586c87-f08d-4105-867a-87854f98efef"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/57586c87-f08d-4105-867a-87854f98efef",
+    "idCredencial": "57586c87-f08d-4105-867a-87854f98efef"
   },
   {
     "nombre": "Protección de datos personales en América Móvil",
@@ -1145,7 +1226,8 @@
       "Privacidad",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e7922731-802a-4167-8639-4d4dbdfa8d11"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/e7922731-802a-4167-8639-4d4dbdfa8d11",
+    "idCredencial": "e7922731-802a-4167-8639-4d4dbdfa8d11"
   },
   {
     "nombre": "Prevención de lavado de dinero",
@@ -1157,7 +1239,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/cd869222-6f8a-4af4-92d7-88f6607898c3"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/cd869222-6f8a-4af4-92d7-88f6607898c3",
+    "idCredencial": "cd869222-6f8a-4af4-92d7-88f6607898c3"
   },
   {
     "nombre": "Introducción a la seguridad de la información",
@@ -1170,7 +1253,8 @@
       "Seguridad / Ciberseguridad",
       "Seguridad"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/078f72b1-5fb2-4637-a89f-9c71d92d7ef5"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/078f72b1-5fb2-4637-a89f-9c71d92d7ef5",
+    "idCredencial": "078f72b1-5fb2-4637-a89f-9c71d92d7ef5"
   },
   {
     "nombre": "Control efectivo de la corrupción",
@@ -1182,7 +1266,8 @@
     "claves": [
       "General / Compliance / Bienestar"
     ],
-    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/06685124-8149-445d-a8a3-2f5a361d1290"
+    "url": "https://capacitatecarso.com/verifica/3fc33210-0282-4d66-84e4-05a5dddaa690/06685124-8149-445d-a8a3-2f5a361d1290",
+    "idCredencial": "06685124-8149-445d-a8a3-2f5a361d1290"
   },
   {
     "nombre": "Las Bases de datos en la nube y sus ventajas",
@@ -1195,7 +1280,8 @@
       "Cloud / AWS",
       "Base de datos"
     ],
-    "url": "https://drive.google.com/file/d/1LqBLkMMCujqHZnfsZJ8D63AbLr4AN5ew/view"
+    "url": "https://drive.google.com/file/d/1LqBLkMMCujqHZnfsZJ8D63AbLr4AN5ew/view",
+    "idCredencial": null
   },
   {
     "nombre": "Introducción a Serverless, Lambdas y Api Gateway con AWS",
@@ -1214,7 +1300,8 @@
       "Serverless",
       "Lambda"
     ],
-    "url": "https://drive.google.com/file/d/1b4XaDlVKDXqeGqX4UbsbcqWh9EhOeBLk/view"
+    "url": "https://drive.google.com/file/d/1b4XaDlVKDXqeGqX4UbsbcqWh9EhOeBLk/view",
+    "idCredencial": "UC-Ocfcac5f-19b9-4c49-80cb-033105121f0a"
   },
   {
     "nombre": "Amazon AWS desde cero",
@@ -1230,7 +1317,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://www.udemy.com/certificate/UC-8f35d1c4-c2b5-43a9-9d8c-808340f3d180/"
+    "url": "https://www.udemy.com/certificate/UC-8f35d1c4-c2b5-43a9-9d8c-808340f3d180/",
+    "idCredencial": "UC-8f35d1c4-c2b5-43a9-9d8c-808340f3d180"
   },
   {
     "nombre": "AWS Curso Básico para desarrolladores web",
@@ -1246,7 +1334,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://www.udemy.com/certificate/UC-f751d6f4-8f1f-4632-9a0e-cd2ab2cbe3ec/"
+    "url": "https://www.udemy.com/certificate/UC-f751d6f4-8f1f-4632-9a0e-cd2ab2cbe3ec/",
+    "idCredencial": "UC-f751d6f4-8f1f-4632-9a0e-cd2ab2cbe3ec"
   },
   {
     "nombre": "AWS Cloud Practitioner Essentials y Mentorías",
@@ -1262,7 +1351,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://drive.google.com/file/d/1GRb_PGpDi_oAz9onj3sVMcB5N5WOo_Dx/view"
+    "url": "https://drive.google.com/file/d/1GRb_PGpDi_oAz9onj3sVMcB5N5WOo_Dx/view",
+    "idCredencial": null
   },
   {
     "nombre": "Go to AWS Certification - Developer Associate - Latam",
@@ -1278,7 +1368,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://drive.google.com/file/d/1uPzctYv9BSiImGiLg463iglNVt1Z8jRp/view"
+    "url": "https://drive.google.com/file/d/1uPzctYv9BSiImGiLg463iglNVt1Z8jRp/view",
+    "idCredencial": null
   },
   {
     "nombre": "Arquitectura de Android",
@@ -1292,7 +1383,8 @@
       "Android",
       "Móvil"
     ],
-    "url": "https://platzi.com/p/610/curso/1619-course/diploma/detalle/"
+    "url": "https://platzi.com/p/610/curso/1619-course/diploma/detalle/",
+    "idCredencial": "61bf1114-ec22-43f0-a413-624c65757b72"
   },
   {
     "nombre": "Universidad Java - De Cero a Experto",
@@ -1306,7 +1398,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": "https://www.udemy.com/certificate/UC-bebfa4d4-f811-4bbe-a9ab-e6d67115e837/"
+    "url": "https://www.udemy.com/certificate/UC-bebfa4d4-f811-4bbe-a9ab-e6d67115e837/",
+    "idCredencial": "UC-bebfa4d4-f811-4bbe-a9ab-e6d67115e837"
   },
   {
     "nombre": "Club Java Master: De Novato a Experto Java",
@@ -1320,7 +1413,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": "https://www.udemy.com/certificate/UC-27475481-8593-4e98-852d-52b61c03990b/"
+    "url": "https://www.udemy.com/certificate/UC-27475481-8593-4e98-852d-52b61c03990b/",
+    "idCredencial": "UC-27475481-8593-4e98-852d-52b61c03990b"
   },
   {
     "nombre": "Curso Profesional de Java EE",
@@ -1334,7 +1428,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": "https://platzi.com/p/610/curso/1110-course/diploma/detalle/"
+    "url": "https://platzi.com/p/610/curso/1110-course/diploma/detalle/",
+    "idCredencial": "518c859b-5c10-4c9d-bbac-5ef573907064"
   },
   {
     "nombre": "AWS Cloud Essentials for Business Leaders (1.0)",
@@ -1351,7 +1446,8 @@
       "Cloud",
       "Nube"
     ],
-    "url": "https://drive.google.com/file/d/1njsh9s2X0bwwrA5UMI5Uo0D5zFO2gTX9/view"
+    "url": "https://drive.google.com/file/d/1njsh9s2X0bwwrA5UMI5Uo0D5zFO2gTX9/view",
+    "idCredencial": null
   },
   {
     "nombre": "Introducción a la programación con Kotlin Desde Cero",
@@ -1365,7 +1461,8 @@
       "Kotlin",
       "Android"
     ],
-    "url": "https://www.udemy.com/certificate/UC-b6027b8b-ba7d-4ec9-b471-b4409e16f725/"
+    "url": "https://www.udemy.com/certificate/UC-b6027b8b-ba7d-4ec9-b471-b4409e16f725/",
+    "idCredencial": "UC-b6027b8b-ba7d-4ec9-b471-b4409e16f725"
   },
   {
     "nombre": "Introducción a la Ley General de Archivos",
@@ -1377,7 +1474,8 @@
     "claves": [
       "Seguridad / Ciberseguridad"
     ],
-    "url": "https://drive.google.com/file/d/17gN30C010IoolZRUkMJ18-cCV5KzJFC4/view"
+    "url": "https://drive.google.com/file/d/17gN30C010IoolZRUkMJ18-cCV5KzJFC4/view",
+    "idCredencial": "NqdLj3SHLU"
   },
   {
     "nombre": "Core Spring 5.0.b",
@@ -1393,7 +1491,8 @@
       "Java",
       "Backend"
     ],
-    "url": "https://drive.google.com/file/d/1XA_u5oTSMEWDN4RyOP06K1gVM0mEW0rA/view"
+    "url": "https://drive.google.com/file/d/1XA_u5oTSMEWDN4RyOP06K1gVM0mEW0rA/view",
+    "idCredencial": null
   },
   {
     "nombre": "Introducción a la Ley Federal de Transparencia y Acceso a la Información Pública",
@@ -1405,7 +1504,8 @@
     "claves": [
       "Seguridad / Ciberseguridad"
     ],
-    "url": "https://drive.google.com/file/d/13Q4HO6I0WacNYTDBBG2fDovRxXEuJTCQ/view"
+    "url": "https://drive.google.com/file/d/13Q4HO6I0WacNYTDBBG2fDovRxXEuJTCQ/view",
+    "idCredencial": "DGC/ILFTAIP/INE/405495/YqRYjZEyVC"
   },
   {
     "nombre": "Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados",
@@ -1420,7 +1520,8 @@
       "Privacidad",
       "Seguridad"
     ],
-    "url": "https://drive.google.com/file/d/1XM543GFkj0-MiVzskL9i6ff_Wy-l8qWD/view"
+    "url": "https://drive.google.com/file/d/1XM543GFkj0-MiVzskL9i6ff_Wy-l8qWD/view",
+    "idCredencial": "DGC/ILGPDPPSO/INE/405495/DHyZBeS3Jv"
   },
   {
     "nombre": "Scrum Fundamentals with AI Certified (SFC)",
@@ -1435,7 +1536,8 @@
       "Agile",
       "Gestión de Proyectos"
     ],
-    "url": "https://www.scrumstudy.com/certification/verify?type=SFC&number=646703"
+    "url": "https://www.scrumstudy.com/certification/verify?type=SFC&number=646703",
+    "idCredencial": "646703"
   },
   {
     "nombre": "Analista GeneXus 15",
@@ -1449,7 +1551,8 @@
       "GeneXus",
       "Legado"
     ],
-    "url": "https://drive.google.com/file/d/13AlLy96oJm57DEnXX27W56NQPLyi3Pfh/view"
+    "url": "https://drive.google.com/file/d/13AlLy96oJm57DEnXX27W56NQPLyi3Pfh/view",
+    "idCredencial": null
   },
   {
     "nombre": "Curso Integral de Java y programación Web con HTML5",
@@ -1463,7 +1566,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Desarrollo de aplicaciones con Interfaz Gráfica, Manejo de Eventos, Clases y Objetos en Java",
@@ -1477,7 +1581,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Variables y estructuras de Control en la Programación orientada a objetos en Java",
@@ -1491,7 +1596,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Desarrollo de Aplicaciones con Manejo de Archivos de Proceso Simultaneo y Uso de Menús",
@@ -1504,7 +1610,8 @@
       "Full Stack",
       "Backend / Java"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Desarrollo de Aplicaciones con Manejo de Archivos de Texto y el Manejo de Excepciones en Java",
@@ -1518,7 +1625,8 @@
       "Backend / Java",
       "Java"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   },
   {
     "nombre": "Programación de dispositivos móviles",
@@ -1530,6 +1638,7 @@
     "claves": [
       "Android / Móvil"
     ],
-    "url": null
+    "url": null,
+    "idCredencial": null
   }
 ]

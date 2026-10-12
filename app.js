@@ -244,7 +244,7 @@ function pintar() {
       <td class="institucion col-institucion" data-label="${t().thInstitucion}">${escapeHtml(c.institucion)}</td>
       <td class="fecha" data-label="${t().thFecha}">${fechaTxt}</td>
       <td class="horas num" data-label="${t().thHoras}">${horasTxt}</td>
-      <td class="cert-cell">${certHtml}</td>
+      <td class="cert-cell">${certHtml}${c.idCredencial ? `<input type="hidden" class="id-credencial" value="${escapeHtml(c.idCredencial)}" />` : ""}</td>
     `;
     tbody.appendChild(tr);
   }
